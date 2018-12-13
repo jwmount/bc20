@@ -4,6 +4,7 @@
 
 # Simple MNP of a blockchain by MatiasFMolinari
 # Repo: ruby/blockchain.rb
+# $ ruby ./bc20.rb
 
 require 'digest'
 
